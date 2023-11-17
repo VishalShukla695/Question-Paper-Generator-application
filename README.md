@@ -30,8 +30,6 @@ Run the application:
 node main.js
 
 
-Certainly! Below is a sample README file content for the Node.js Question Paper Generator project:
-
 Question Paper Generator
 Overview
 This Node.js application is a Question Paper Generator designed to store and generate question papers based on specified criteria. The application uses modular design principles to keep the code organized and extensible.
